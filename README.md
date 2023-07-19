@@ -2,11 +2,11 @@
 
 Arsam Ijaz and Ronald Lam, had proceed to divide the work into the following parts:
 
-Part 1: Arsam
-Part 2: Ronald
-Part 3: Arsam and Ronald
-Part 4: Arsam and Ronald
-Clean & streamline code: Ronald
+* Part 1: Arsam
+* Part 2: Ronald
+* Part 3: Arsam and Ronald
+* Part 4: Arsam and Ronald
+* Clean & streamline code: Ronald
 
 ## Part 1: Create the Category and Subcategory DataFrames
 by Arsam
