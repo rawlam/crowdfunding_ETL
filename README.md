@@ -1,4 +1,4 @@
-# Project 2: Crowdfunding, Extract Transform Load Pipeline
+# Crowdfunding, Extract Transform Load Pipeline
 
 Arsam Ijaz and Ronald Lam, had proceed to divide the work into the following parts:
 
